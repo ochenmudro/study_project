@@ -1,0 +1,121 @@
+[
+  {
+    "name": "math",
+    "description": "Mathematics is the science and study of quality, structure, space, and change. Mathematicians seek out patterns, formulate new conjectures, and establish truth by rigorous deduction from appropriately chosen axioms and definitions.",
+    "mentor": "Marie Curie",
+    "students": [
+      {
+        "name": "Anne",
+        "lastname": "Brown",
+        "age": 19,
+        "courses": ["math","english","physics","geography"]
+      },
+      {
+        "name": "Diane",
+        "lastname": "Star",
+        "age": 18,
+        "courses": ["math"]
+      },
+      {
+        "name": "Steven",
+        "lastname": "King",
+        "age": 60,
+        "courses": ["math","english","sociology"]
+      }
+    ]
+  },
+  {
+    "name": "english",
+    "description": "This course emphasizes the fundamental language skills of reading, writing, speaking, listening, thinking, viewing and presenting. An emphasis on vocabulary and composition skills will be an on-going part of the program.",
+    "mentor": "George Orwell",
+    "students": [
+      {
+        "name": "Anne",
+        "lastname": "Brown",
+        "age": 19,
+        "courses": ["math","english","physics","geography"]
+      },
+      {
+        "name": "Charls",
+        "lastname": "Bookovski",
+        "age": 20,
+        "courses":["english"]
+      },
+      {
+        "name": "Steven",
+        "lastname": "King",
+        "age": 60,
+        "courses": ["math","english","sociology"]
+      },
+      {
+        "name": "Tanya",
+        "lastname": "Grotter",
+        "age": 17,
+        "courses":["english"]
+      }
+    ]
+  },
+  {
+    "name": "physics",
+    "description": "Physics, science that deals with the structure of matter and the interactions between the fundamental constituents of the observable universe.",
+    "mentor": "Marie Curie",
+    "students": [
+      {
+        "name": "Anne",
+        "lastname": "Brown",
+        "age": 19,
+        "courses": ["math","english","physics","geography"]
+      },
+      {
+        "name": "Adam",
+        "lastname": "God",
+        "age": 19,
+        "courses":["physics"]
+      },
+      {
+        "name": "Eve",
+        "lastname": "Queen",
+        "age": 22,
+        "courses":["physics","geography","sociology"]
+      }
+    ]
+  },
+  {
+    "name": "geography",
+    "description": "Geography is the study of places and the relationships between people and their environments.",
+    "mentor": "Jeanne Baret",
+    "students": [
+      {
+        "name": "Anne",
+        "lastname": "Brown",
+        "age": 19,
+        "courses": ["math","english","physics","geography"]
+      },
+      {
+        "name": "Eve",
+        "lastname": "Queen",
+        "age": 22,
+        "courses":["physics","geography","sociology"]
+      }
+    ]
+  },
+  {
+    "name": "sociology",
+    "description": "Sociology is the study of social life, social change, and the social causes and consequences of human behavior.",
+    "mentor": "Marianne Weber",
+    "students": [
+      {
+        "name": "Eve",
+        "lastname": "Queen",
+        "age": 22,
+        "courses":["physics","geography","sociology"]
+      },
+      {
+        "name": "Steven",
+        "lastname": "King",
+        "age": 60,
+        "courses": ["math","english","sociology"]
+      }
+    ]
+  }
+]
